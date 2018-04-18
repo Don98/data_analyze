@@ -1,3 +1,4 @@
+#此脚本运行需要有knn.py的脚本依赖
 import knn
 import matplotlib
 import matplotlib.pyplot as plt
